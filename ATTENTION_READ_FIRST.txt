@@ -1,6 +1,3 @@
-# CSC111 Winter 2021 Project: Anime Atlas.
-# Ian Lavine, Jeremy Hiu Shun Wong, Prithee Roy Ballave, Ayush Sahi
-
 https://youtu.be/NqIR-_KpWYc
 
 Hello! Please watch this video if there are any troubles with running our program. Some users have
